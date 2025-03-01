@@ -2,7 +2,7 @@
 ## adding image
 ![image of ykatocat](https://octodex.github.com/images/yaktocat.png)
 ## adding a example code
-'''javascript
+``` javascript
 var myVar = " Hello world";
-'''
+```
 #### header 4
