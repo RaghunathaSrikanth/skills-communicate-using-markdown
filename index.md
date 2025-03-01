@@ -1,4 +1,5 @@
 # header 1 
-## header 2
+## adding image
+![image of ykatocat](https://octodex.github.com/images/yaktocat.png)
 ### header 3
 #### header 4
