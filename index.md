@@ -2,7 +2,12 @@
 ## adding image
 ![image of ykatocat](https://octodex.github.com/images/yaktocat.png)
 ## adding a example code
+### example 1
 ``` javascript
 var myVar = " Hello world";
 ```
-#### header 4
+### example 2
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
